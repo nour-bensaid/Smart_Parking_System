@@ -1,1 +1,2 @@
 # Smart_Parking_System
+The project is a smart parking system consisting of an Arduino Uno board, two IR sensors, an LCD 16*2 Display, and a servo motor. The system uses the servo motor to monitor the bar of the parking entrance/exit. The first IR sensor detects the entrance of a car, and the second IR sensor detects the exit. The LCD display shows the status of the parking space and available spots for drivers. 
